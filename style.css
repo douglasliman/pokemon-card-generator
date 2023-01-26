@@ -56,9 +56,9 @@ position: relative;
     letter-spacing: 0.4px;
     font-weight: 600;
 }
-.types span{
+/* .types span{
 
-}
+} */
 .stats{
     display: flex;
     align-items: center;
